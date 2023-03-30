@@ -11,7 +11,7 @@ export const defaultSetting = {
 }
 
 export const defaultMessage = `Powered by OpenAI Vercel
-- 如果本项目对你有所帮助，- 体验码请关注公众号 KK笔记虾，回复 “体验码” 领取。
+- 如果本项目对你有所帮助，- 体验码请关注公众号 KK笔记虾，一起学习ChatGPT，助力学习工作。
 - 本网站仅作为项目演示，不提供长期服务。
 - API Key 由我自己免费提供，注意不要滥用。
 - [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。`
